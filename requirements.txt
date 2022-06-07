@@ -1,0 +1,4 @@
+pillow
+numpy
+bs4
+requests
